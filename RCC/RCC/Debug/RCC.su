@@ -1,0 +1,4 @@
+RCC.c:28:17:Rcc_enuSelectSysCLk	24	static
+RCC.c:80:17:RCC_enuEnablePerClock	24	static
+RCC.c:111:17:RCC_enuDisablePerClock	24	static
+RCC.c:133:6:main	8	static
